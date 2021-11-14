@@ -1,0 +1,23 @@
+{
+  "name": "chargingmanager",
+  "version": "1.0.0",
+  "description": "Utility to keep track of charging my laptop",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mik Mueller",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikMuellerDev/chargingManager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MikMuellerDev/chargingManager/issues"
+  },
+  "homepage": "https://github.com/MikMuellerDev/chargingManager#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
