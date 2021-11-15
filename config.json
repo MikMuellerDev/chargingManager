@@ -1,5 +1,5 @@
 {
-  "serverUrl": "http://localhost:9999",
+  "serverUrl": "http://192.168.178.204:9999",
   "username": "mik",
   "token": "test"
 }
